@@ -8,9 +8,10 @@
 ##### 2021-now ：上海交通大学 计算机科学与技术
 #### 邮箱：lt0527@outlook.com
 
+## 未来三年的研究生生涯
+
 *****
 
-## 未来三年的研究生生涯
 #### 研0
 ##### 1. CSAPP：0%
 ##### 2. 程序员的自我修养：0%
@@ -19,7 +20,8 @@
 ##### 5. Python从入门到实践：<https://github.com/Anticorianderist/Python-from-theory-to-practice>
 #### To be continued...
 
+## Research Interests
+
 *****
 
-## Research Interests
 #### system security, software security...
