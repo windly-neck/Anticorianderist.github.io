@@ -9,5 +9,5 @@
 ##### 1. CSAPP：0%
 ##### 2. 程序员的自我修养：0%
 ##### 3. 信息安全入门：0%
-##### 4. C++从入门到精通：
-##### 5. Python从入门到实践：
+##### 4. C++从入门到精通：https://github.com/Anticorianderist/C-from-primary-to-advanced
+##### 5. Python从入门到实践：https://github.com/Anticorianderist/Python-from-theory-to-practice
