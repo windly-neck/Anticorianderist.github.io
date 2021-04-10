@@ -13,7 +13,7 @@
 *****
 
 - 研0
-  - CSAPP：0%
+  - CSAPP：1/26
   - 程序员的自我修养：0%
   - 信息安全入门：0%
   - C++从入门到精通：<https://github.com/Anticorianderist/C-from-primary-to-advanced>
